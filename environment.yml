@@ -1,4 +1,4 @@
-name: capybara
+name: mlflow-example
 channels:
   - defaults
   - anaconda
